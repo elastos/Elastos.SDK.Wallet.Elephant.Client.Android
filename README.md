@@ -1,1 +1,1 @@
-# Elastos.SDK.Wallet.Elephant.Client.Android
+# DID pay and authorization
